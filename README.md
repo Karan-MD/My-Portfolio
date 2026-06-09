@@ -1,4 +1,4 @@
-# Karan Dudhagara // Digital Portfolio
+# Karan Dudhagara - Digital Portfolio
 
 > Engineering reality through code.
 
